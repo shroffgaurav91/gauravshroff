@@ -4,6 +4,7 @@
     <meta charset='utf-8'>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>{{ page.title }}</title>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" type="text/css" href="{{ '/assets/css/print.css' | relative_url }}" media="print">
     <!--[if lt IE 9]>
@@ -21,8 +22,8 @@
           <h1>{{ Gaurav Shroff}}</h1>
           <h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
 		  <nav>
-            <a href="{{ site.github.zip_url }}/">Blog</a>
-            <a href="{{ site.github.zip_url }}/about">About</a>
+            <a href="/">Home</a>
+            <a href="/posts/">Book-summaries</a>
           </nav>
         </header>
         <section id="downloads" class="clearfix">
