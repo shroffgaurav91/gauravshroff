@@ -4,7 +4,7 @@ layout: default
 
 # Book-Summaries
 
-## These are the excerpts from the books I have read and may revisit again.
+## These are excerpts from some of the books I have read and have found useful.
 
 
 ##### Nov 29, 2020
