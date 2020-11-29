@@ -1,2 +1,4 @@
-
+---
+layout: post
+---
 ##Book-Summaries
