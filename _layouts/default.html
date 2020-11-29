@@ -22,12 +22,14 @@
           <h1>{{ Gaurav Shroff}}</h1>
           <h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
 		  <nav>
-        <li class="nav-item">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
              <a class="nav-link" href="{{ site.github.zip_url }}">Home</a>
-        </li>
-        <li class="nav-item"> 
+          </li>
+          <li class="nav-item"> 
             <a class="nav-link" href="{{ site.baseurl }}/posts">Book-Summaries</a>
-        </li>
+          </li>
+        </ul>
       </nav>
         </header>
         <section id="downloads" class="clearfix">
