@@ -2,6 +2,7 @@ theme: jekyll-theme-tactile
 encoding: utf-8
 title: Gaurav Shroff
 tagline: A blog dedicated to my learnings
+baseurl: "https:/gauravshroff.com"
 plugins:
   - jekyll-coffeescript
 
