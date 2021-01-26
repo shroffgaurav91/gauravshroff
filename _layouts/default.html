@@ -5,6 +5,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>{{ page.title }}</title>
+    <style>
+     nav {
+          background-color: white;
+          padding: 10px;
+          }
+      ul {
+          background-color: white;
+          padding: 10px;    
+          text-align: center;
+         }
+      li {
+          background-color: white;
+          color:black;
+          margin: 5px;
+          list-style-type: none;
+          display: inline-block; 
+      } 
+
+
+    </style>  
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" type="text/css" href="{{ '/assets/css/print.css' | relative_url }}" media="print">
     <!--[if lt IE 9]>
@@ -22,20 +42,12 @@
           <h1>{{ Gaurav Shroff}}</h1>
           <h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
 		  <nav>
-        
-            <li class="nav-item">
-              <a class="nav-link" href="{{ site.baseurl }}  /">Home</a>
-            </li>
-            <li class="nav-item"> 
-              <a class="nav-link" href="{{ site.baseurl }}/posts">Book-Summaries</a>
-            </li>
-            <li class="nav-item"> 
-              <a class="nav-link" href="{{ site.baseurl }}/links">Links</a>
-            </li>
-            <li class="nav-item"> 
-              <a class="nav-link" href="{{ site.baseurl }}/lists">Lists</a>
-            </li>
-            
+        <ul>
+            <li a href="{{ site.baseurl }}/">Home</a></li>
+            <li a href="{{ site.baseurl }}/posts">Book-Summaries</a></li>
+            <li a href="{{ site.baseurl }}/links">Links</a></li>
+            <li a href="{{ site.baseurl }}/lists">Lists</a></li>
+        </ul>  
        </nav>
         </header>
         <section id="downloads" class="clearfix">
