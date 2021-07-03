@@ -7,6 +7,9 @@ layout: default
 ## These are excerpts from some of the books I have read and have found useful.
 
 
+##### Jun 04, 2021
+## [Rich Dad, Poor Dad](https://www.notion.so/Rich-Dad-Poor-Dad-e46a6fa52eab4f29898cf694f7cf63fe)
+
 #### Dec 06, 2020
 ## [The Mom test : How to talk to customers and learn if your business is a good idea when everyone is lying to you](https://www.notion.so/The-Mom-Test-3f98e3c803b84e519a0c0aae55b81cd5)
 
