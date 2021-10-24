@@ -7,7 +7,7 @@ layout: default
 ## These are excerpts from some of the books I have read and have found useful.
 
 #### Oct 25, 2021
-## [Tao of Charlie Munger] (https://www.notion.so/Tao-of-Charlie-Munger-bb4184f637e841e591ce13531e4847c4)
+## [Tao of Charlie Munger](https://www.notion.so/Tao-of-Charlie-Munger-bb4184f637e841e591ce13531e4847c4)
 
 ##### Jun 04, 2021
 ## [Rich Dad, Poor Dad](https://www.notion.so/Rich-Dad-Poor-Dad-e46a6fa52eab4f29898cf694f7cf63fe)
